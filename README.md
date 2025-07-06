@@ -429,45 +429,10 @@ git checkout -b feature/amazing-feature
 - Include screenshots for UI changes
 - Reference any related issues
 
-### Contribution Ideas
-
-- 🎨 **UI/UX improvements** - Better animations, themes, accessibility
-- 🔧 **Additional form fields** - Name, company, preferences
-- 📊 **Analytics integration** - Google Analytics, tracking pixels
-- 🛡️ **Security enhancements** - Rate limiting, spam protection
-- 🌐 **Internationalization** - Multi-language support
-- 📱 **Mobile app** - React Native version
-- 🔌 **API extensions** - Additional Brevo features
-
 ## 📊 Roadmap
-
-### Planned Features
-- [ ] **Admin dashboard** for managing subscriptions
-- [ ] **Email templates** for confirmation emails
-- [ ] **Webhook support** for real-time updates
-- [ ] **Multi-list support** for segmented marketing
-- [ ] **A/B testing** for form variations
-- [ ] **Analytics dashboard** for signup metrics
-- [ ] **GDPR compliance** features
 
 ### Version History
 - **v1.0.0** - Initial release with core functionality
-- **v1.1.0** - Enhanced error handling and debugging
-- **v1.2.0** - Production deployment guides
-
-## 💡 FAQ
-
-**Q: Can I use this with other email services?**
-A: The code is specifically designed for Brevo, but you can adapt the API integration for other services like Mailchimp, ConvertKit, etc.
-
-**Q: Is this suitable for high-traffic websites?**
-A: Yes! The application is built with Next.js best practices and can handle significant traffic. Consider adding rate limiting for production use.
-
-**Q: Can I customize the email confirmation flow?**
-A: Yes! You can use Brevo's automation features to set up custom email flows triggered by contact creation.
-
-**Q: How do I handle unsubscribes?**
-A: Brevo automatically handles unsubscribe links in your emails. You can also use their API to manage unsubscribes programmatically.
 
 ## 📄 License
 
@@ -528,7 +493,7 @@ Need custom implementation or enterprise features? Contact us for professional s
 
 **⭐ Star this repo if it helped you build better newsletter signups!**
 
-[🚀 Live Demo](https://your-demo-url.vercel.app) • [📚 Documentation](https://github.com/your-username/brevo-newsletter-next) • [🐛 Report Bug](https://github.com/your-username/brevo-newsletter-next/issues) • [💡 Request Feature](https://github.com/your-username/brevo-newsletter-next/issues)
+[🚀 Live Demo](https://brevo-newsletter-next-js.vercel.app/) • [📚 Documentation](https://github.com/hellotreedev/brevo-newsletter-next) • [🐛 Report Bug](https://github.com/hellotreedev/brevo-newsletter-next/issues) • [💡 Request Feature](https://github.com/hellotreedev/brevo-newsletter-next/issues)
 
 Made with ❤️ by developers, for developers.
 
