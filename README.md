@@ -493,7 +493,7 @@ Need custom implementation or enterprise features? Contact us for professional s
 
 **⭐ Star this repo if it helped you build better newsletter signups!**
 
-[🚀 Live Demo](https://brevo-newsletter-next-js.vercel.app/) • [📚 Documentation](https://github.com/hellotreedev/brevo-newsletter-next) • [🐛 Report Bug](https://github.com/hellotreedev/brevo-newsletter-next/issues) • [💡 Request Feature](https://github.com/hellotreedev/brevo-newsletter-next/issues)
+[🚀 Live Demo](https://brevo-newsletter-next-js.vercel.app/) • [📚 Documentation](https://github.com/hellotreedev/Brevo-Newsletter-NextJS) • [🐛 Report Bug](https://github.com/hellotreedev/Brevo-Newsletter-NextJS/issues) • [💡 Request Feature](https://github.com/hellotreedev/Brevo-Newsletter-NextJS/issues)
 
 Made with ❤️ by developers, for developers.
 
